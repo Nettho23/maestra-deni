@@ -1,0 +1,13 @@
+LABORATORIO DENI — PUBLICAR EN GITHUB PAGES
+
+1. Descomprime este ZIP.
+2. Abre o crea un repositorio en GitHub.
+3. En Add file > Upload files, sube TODOS los archivos y la carpeta assets.
+   index.html debe quedar en la raíz del repositorio, no dentro de otra carpeta.
+4. Pulsa Commit changes.
+5. En Settings > Pages, selecciona Deploy from a branch.
+6. Elige main y /(root), y pulsa Save.
+7. Espera a que GitHub muestre el enlace de tu página.
+
+No requiere instalación ni compilación. Conserva los nombres de los archivos.
+La música se inicia tocando su botón. El video tiene sus propios controles.
